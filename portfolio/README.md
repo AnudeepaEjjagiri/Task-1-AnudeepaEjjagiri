@@ -47,13 +47,13 @@ portfolio/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/AnudeepaEjjagiri/portfolio.git
 
 
 2. Open the project folder:
 
 
-portfolio
+cd portfolio
 
 
 3. Run the project:
