@@ -27,27 +27,13 @@ This project was created as part of my internship learning journey to improve fr
  Project Structure
 
 portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── profile.jpg (optional)
-│── screenshots/
-│     ├── home
-│     ├── about
-│     ├── skills
-│     ├── projects
-│     ├── contact
-│── README.md
-
-
-
-
+README.md, about.png, contact.png, home.png, index.png, profilePhoto.png, projects.png, script.js, style.css
 
  How to Run This Project
 
 1. Clone the repository:
 
-git clone https://github.com/AnudeepaEjjagiri/portfolio.git
+https://github.com/AnudeepaEjjagiri/Task-1-AnudeepaEjjagiri.git
 
 
 2. Open the project folder:
